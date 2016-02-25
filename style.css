@@ -1,0 +1,6 @@
+.blacksquare {
+  width: 300px;
+  height: 300px;
+  box-sizing: border-box;
+  background-color: black;
+}
